@@ -1,10 +1,10 @@
 .App {
-  padding-top: 15rem;
+  padding-top: 2.5rem;
   text-align: center;
   background-color: antiquewhite;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   z-index : 100;
-  padding-bottom: 15rem;
+  padding-bottom: 6rem;
 }
 .input_button{
   margin-top: 2rem;
@@ -12,13 +12,33 @@
 .input{
   border: 1px grey solid;
   margin-right: 0.5rem;
+  margin-bottom: 1.5rem;
   height: 35px;
+  width: 290px;
   border-radius: 10px;
   font-size: 20px;
-  color: rgb(35, 34, 34)
-  
+  color: rgb(35, 34, 34);
 }
 #button{
   margin-bottom: 5px;
   height: 35px;
+}
+.result{
+  margin-top: 2rem;
+  border: 3px solid black;
+  padding: 40px;
+  border-radius: 30px;
+
+}
+.footer{
+  margin-top: 5rem;
+}
+/* .parent{
+  display: flex;
+  float: left;
+} */
+.flug{
+  height: 13rem;
+  width: 19rem;
+  padding: 10px;
 }
