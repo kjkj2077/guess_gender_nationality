@@ -4,5 +4,5 @@
 <h3>Computer ver</h3>
 <img src ="public/com.png"/>
 <h3>mobile ver</h3>
-<img src ='public/mobile.png'/>
+<img src ='public/mobile.PNG'/>
 
